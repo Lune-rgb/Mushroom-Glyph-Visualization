@@ -13,7 +13,7 @@ python -m SimpleHTTPServer 8000
 
 正常显示效果：
 
-![glyph](E:\Projects\bonus\bonus-3190105959\glyph.png)
+![glyph](https://user-images.githubusercontent.com/61038128/149718445-3d3c33e4-5918-4764-a0f8-c0174836c463.png)
 
 如直接打开index会导致数据无法加载，图像将不能正常显示。
 
